@@ -12,6 +12,4 @@ If you wish to donate to my paypal the link is below, I don't expect anything an
 I enjoyed sneaking around and stealthily sniping AI so much I knew the community had to have it too! 
 I'll keep it updated as long as I keep playing SPT-AKI.
 
-PayPal Donate:
-https://www.paypal.com/donate/?business=F7MGETETEJFL6&no_recurring=1&item_name=If+you+want+to+say+thanks%21+&currency_code=CAD
 </pre>
