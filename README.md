@@ -8,8 +8,5 @@ attack as soon as you put your crosshair over them, even if they have their back
 There are config options (requiring a game re-start for changes to take effect) allowing you to turn this override on 
 for the player and/or other bots. 
 
-If you wish to donate to my paypal the link is below, I don't expect anything and have made this mod purely for fun. 
-I enjoyed sneaking around and stealthily sniping AI so much I knew the community had to have it too! 
-I'll keep it updated as long as I keep playing SPT-AKI.
 
 </pre>
